@@ -1,0 +1,52 @@
+#sobremi h1 {
+    font-size: 2.5em;
+    color: #000000;
+}
+
+#sobremi p {
+  font-size: 1.5rem;
+  color: #000000;
+}
+
+#sobremi b{
+      color:rgb(0, 0, 0) ;
+    font-weight: 600;
+}
+
+
+#sobremi .sobreMi-encabezado{
+  padding: 10px 0 10px 0;
+  border-bottom: 1px rgb(0, 0, 0) solid;
+}
+
+#sobremi .sobreMi-aside {
+  display: flex;
+    align-items: flex-start;
+}
+
+
+#sobremi img {
+      border-radius: 7px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+
+#sobremi .sobreMi-aside,
+#sobremi .sobreMi-main{
+  padding-top: 20px;
+}
+
+@media (min-width:768px) {
+#sobremi img {
+  width: 70%;
+
+}
+}
+
+@media (min-width:992px) {
+#sobremi img {
+  width: 70%;
+
+}
+}

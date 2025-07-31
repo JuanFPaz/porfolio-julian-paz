@@ -1,0 +1,17 @@
+#inicio h1
+{
+    font-size: 4.5em;
+    color: rgb(255, 255, 255);
+}
+
+#inicio p{
+    color:#ffffff ;
+    font-size: 1.8em;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+#inicio b{
+    color:rgb(255, 255, 255);
+    font-weight: 800;
+}

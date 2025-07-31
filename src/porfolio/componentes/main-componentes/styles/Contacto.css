@@ -1,0 +1,55 @@
+#contacto h1 {
+  font-size: 2.5em;
+  color: #000000;
+}
+
+#contacto {
+    color: #000000;
+  }
+
+  #contacto p{
+    font-size: 1.6rem;
+  }
+
+    #contacto b{
+    color:rgb(0, 0, 0) ;
+    font-weight: 600;
+  }
+  #contacto .contacto-encabezado{
+    padding: 10px 0 10px 0;
+    border-bottom: 1px #000000 solid;
+  }
+  
+
+  .contacto-contenido{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+#contacto .contacto-enlaces{
+  display: flex;
+    justify-content: center;
+      margin: 5px 0 5px 0
+}
+
+#contacto .contacto-enlaces>a {
+  width: 80px;
+  height: 80px;
+  display: block;
+  border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    padding: 2px;
+    margin: 0 10px 0 0;
+    transition: filter 0.5s ease-in-out
+}
+
+#contacto .contacto-enlaces>a:hover{
+  filter: drop-shadow(0 0 5px rgb(0, 0, 0));
+}
+
+#contacto .contacto-enlaces img {
+  width: 100%;
+  padding: 8px
+}
