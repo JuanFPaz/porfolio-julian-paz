@@ -4,7 +4,7 @@ export default function Logo () {
   return (
     <div className='logo-contenedor'>
       <h1>Julian Paz</h1>
-      <h2>Escritor Independiente</h2>
+      <h2>Escritor Freelance</h2>
     </div>
   )
 }
