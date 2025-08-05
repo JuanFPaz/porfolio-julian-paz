@@ -1,6 +1,6 @@
 html {  
-  font-size: 10px !important;
-  scroll-padding-top: 91px;
+  font-size: 11px !important;
+  scroll-padding-top:62px;
 }
 
 body {
@@ -26,17 +26,6 @@ body {
   filter: drop-shadow(0 0 5px rgb(0,145,255));
 } */
 
-@media (min-width: 768px) { 
-  html{
-    font-size: 11px !important;
-  }
-}
-
-@media (min-width: 992px) { 
-  html{
-    font-size: 12px !important;
-  }
-}
 
 @media (min-width: 1200px) { 
   html{

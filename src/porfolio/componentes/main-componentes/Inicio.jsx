@@ -1,7 +1,6 @@
 /* eslint-disable import/no-absolute-path */
 /* eslint-disable no-unused-vars */
 import './styles/Inicio.css'
-// import cv from '/pdf/CV-JuanPaz-2025.pdf'
 
 function Inicio ({ id }) {
   return (
@@ -10,12 +9,12 @@ function Inicio ({ id }) {
         <div id={id} className='container-lg'>
           <div className='container-fluid'>
             <div className='row'>
-              <h1>Lorem.</h1>
+              <h1>Hola soy Julian Paz</h1>
               <p>
-                Lorem ipsum dolor sit <b>amet consectetur,</b>  adipisicing elit. Eum eligendi impedit mollitia repudiandae eveniet. Necessitatibus, voluptate cumque.
+                Soy un <b>escritor freelance</b> con experiencia como <b>Ghost Writer</b>, redactando guiones <b>entretenidos</b> y <b>dinamicos</b> que se requiere para <b>atrapar</b> a la audiencia.
                 <br />
                 <br />
-                Perferendis quia ab, <b>recusandae quasi</b> iusto adipisci autem. Delectus unde fuga natus tenetur.
+                Actualmente estoy <b>buscando</b> nuevas oportunidades para formarme <b>profesionalmente</b> en el campo de la escritura.
               </p>
             </div>
           </div>
