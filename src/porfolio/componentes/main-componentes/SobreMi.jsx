@@ -14,9 +14,9 @@ function SobreMi ({ id }) {
         <div className='row'>
           <div className='col-12 col-md-8'>
             <div className='sobreMi-main'>
-              <p>Soy de Buenos Aires, Argentina. Tengo 36 años, soy <b>trabajador freelance</b> con estudios en <b>realización audiovisual</b> y cursos de <b>escritura de guion</b>. En mis <b>tiempos libres</b> me dedico a leer libros, ver películas y series para ampliar mi campo creativo.</p>
-              <p>Empecé a trabajar como <b>escritor freelance</b> en tiempos del confinamiento obligatorio, y a partir de entonces tomé algunos trabajos para algunos clientes como <b>Ghost Writer</b> de canales de Youtube de diferentes países de Latinoamerica, y por eso tengo incorporado el español neutro como idioma secundario.</p>
-              <p>Actualmente <b>buscó nuevos desafíos</b> en el mismo campo para ganar más <b>experiencia</b> como escritor y <b>acoplarme</b> a una dinámica de grupo más organizada, para tener experiencia cuando tenga la oportunidad de financiar <b>mis propios proyectos </b>audiovisuales.</p>
+              <p>Soy de Buenos Aires, Argentina. Tengo 36 años, soy trabajador freelance con estudios en realización audiovisual y cursos de escritura de guion. Desde chico que me apasiona la lectura, ver películes y series, pasatiempo que sigo conservando hasta el día de hoy.</p>
+              <p>Empecé a trabajar como escritor freelance a mediados del 2021, y a partir de entonces tomé un trabajo como Ghost Writer en un canal de Youtube con resúmenes de películas, cuyo contenido va dirigido hacia un público joven de toda Latinoamérica. </p>
+              <p>Actualmente buscó nuevos desafíos en el mismo campo para ganar más experiencia como escritor a cambio de ofrecer mis ideas creativas a proyectos audiovisuales, así puedo acostumbrarme a la dinámica grupal antes de saltar a realizar mis propios proyectos.</p>
             </div>
           </div>
           <div className='col-12 col-md-4'>
