@@ -35,14 +35,11 @@
 #guiones p {
   color: rgb(0, 0, 0);
 }
-.proyectos-img {
-  display: flex;
-      background-color: rgb(7, 7, 7);
-    border-radius: 5px;
-    border: 1px solid rgb(0, 0, 0);;
+.proyectos-descripcion{
+  width: 100%;
 }
 
-.proyectos-img iframe{
+.proyectos-videos iframe{
   width: 100%;
   height: 300px;
 }
@@ -54,13 +51,6 @@
   height: 20px;
   margin: 0 5px 0 5px;
   filter: drop-shadow(0 0 1px black);
-}
-
-/**Este era para Unity, pero lo borre
-* 23/7/2025
-*/
-.iconTec.unity-icon {
-  filter: drop-shadow(0 0 1px rgb(0, 0, 0));
 }
 
 
@@ -123,13 +113,13 @@
 
 
 @media (min-width:768px) {
-  .proyectos-img iframe{
+  .proyectos-videos iframe{
   height: 400px;
 }
 
 }
 @media (min-width:992px) {
-  .proyectos-img iframe{
+  .proyectos-videos iframe{
   height: 500px;
 }
 
